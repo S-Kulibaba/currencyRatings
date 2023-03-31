@@ -2,6 +2,6 @@
 
 ## Used:
 
--JavaScript
--Chart.js
+- JavaScript
+- Chart.js
  
